@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9f2dc56e283237ca6bc8b542326a7d54",
+    "revision": "937bdab7c726e390487c3957a0f53706",
     "url": "/google-sign-in/index.html"
   },
   {
-    "revision": "78e49e8a0eb72eb123ef",
+    "revision": "d4053e1b6115edee5a81",
     "url": "/google-sign-in/static/css/main.4624dadc.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/google-sign-in/static/js/2.7cf4760a.chunk.js"
   },
   {
-    "revision": "78e49e8a0eb72eb123ef",
-    "url": "/google-sign-in/static/js/main.099374c8.chunk.js"
+    "revision": "d4053e1b6115edee5a81",
+    "url": "/google-sign-in/static/js/main.56d9c302.chunk.js"
   },
   {
     "revision": "e594506d34f81d1f8cb3",
