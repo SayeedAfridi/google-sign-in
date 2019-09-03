@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/google-sign-in/static/css/main.4624dadc.chunk.css",
-    "main.js": "/google-sign-in/static/js/main.be6fe4c1.chunk.js",
-    "main.js.map": "/google-sign-in/static/js/main.be6fe4c1.chunk.js.map",
+    "main.js": "/google-sign-in/static/js/main.a85a2b85.chunk.js",
+    "main.js.map": "/google-sign-in/static/js/main.a85a2b85.chunk.js.map",
     "runtime~main.js": "/google-sign-in/static/js/runtime~main.46181832.js",
     "runtime~main.js.map": "/google-sign-in/static/js/runtime~main.46181832.js.map",
     "static/js/2.7cf4760a.chunk.js": "/google-sign-in/static/js/2.7cf4760a.chunk.js",
     "static/js/2.7cf4760a.chunk.js.map": "/google-sign-in/static/js/2.7cf4760a.chunk.js.map",
     "index.html": "/google-sign-in/index.html",
-    "precache-manifest.3f9e09781def89b47c610a7770b58e76.js": "/google-sign-in/precache-manifest.3f9e09781def89b47c610a7770b58e76.js",
+    "precache-manifest.cc85235def1bc35d38acb03e361eeb2b.js": "/google-sign-in/precache-manifest.cc85235def1bc35d38acb03e361eeb2b.js",
     "service-worker.js": "/google-sign-in/service-worker.js",
     "static/css/main.4624dadc.chunk.css.map": "/google-sign-in/static/css/main.4624dadc.chunk.css.map"
   }
